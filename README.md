@@ -6,7 +6,7 @@ An AI-powered WhatsApp chatbot built for coaching centres to automate student ad
 
 ## 📸 Workflow Preview
 
-> *![Workflow](./Screenshot 2026-04-18 055056.png)*
+> ![Workflow](./Screenshot%202026-04-18%20055056.png)
 
 ---
 
